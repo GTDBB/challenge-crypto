@@ -1,4 +1,3 @@
-# challenge-crypto
-www.cryptopals.com
+# cryptography
 
 cryptography homework
